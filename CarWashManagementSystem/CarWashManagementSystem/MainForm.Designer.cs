@@ -252,7 +252,7 @@
             this.btnEmployer.Name = "btnEmployer";
             this.btnEmployer.Size = new System.Drawing.Size(190, 45);
             this.btnEmployer.TabIndex = 11;
-            this.btnEmployer.Text = " Employer";
+            this.btnEmployer.Text = " Employee";
             this.btnEmployer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnEmployer.UseVisualStyleBackColor = true;
             this.btnEmployer.Click += new System.EventHandler(this.btnEmployer_Click);

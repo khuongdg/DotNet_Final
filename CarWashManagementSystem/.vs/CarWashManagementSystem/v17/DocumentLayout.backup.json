@@ -1,125 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet_Final\\CarWashManagementSystem\\",
+  "WorkspaceRootPath": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|d:\\522h0014_duongnhutkhuong\\dotnet_final\\carwashmanagementsystem\\carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\employermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{05CEC740-CD3A-4083-B386-FAE385C0E10D}|CarWashManagementSystem\\CarWashManagementSystem.csproj|solutionrelative:carwashmanagementsystem\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -130,40 +130,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Setting.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Setting.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Setting.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:34:05.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T15:34:05.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Setting.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Setting.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\Setting.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Setting.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:33:59.269Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-18T15:33:59.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Dashboard.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Dashboard.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAwFcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Dashboard.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Dashboard.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T15:04:11.795Z",
@@ -184,69 +182,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "CashCustomer.Designer.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.Designer.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\CashCustomer.Designer.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.Designer.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.Designer.cs",
               "RelativeToolTip": "CarWashManagementSystem\\CashCustomer.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwPIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwPIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:48:16.811Z"
+              "WhenOpened": "2024-11-17T19:48:16.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "EmployerModule.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\EmployerModule.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
               "RelativeToolTip": "CarWashManagementSystem\\EmployerModule.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAADwvyoAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T18:30:59.298Z"
+              "WhenOpened": "2024-11-17T18:30:59.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "Employer.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Employer.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Employer.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T18:30:48.646Z"
+              "WhenOpened": "2024-11-17T18:30:48.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
               "Title": "EmployerModule.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\EmployerModule.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\EmployerModule.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\EmployerModule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T18:30:42.009Z"
+              "WhenOpened": "2024-11-17T18:30:42.009Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Employer.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Employer.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Employer.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\Employer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T18:30:39.353Z"
+              "WhenOpened": "2024-11-17T18:30:39.353Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Splash.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Splash.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Splash.cs",
               "ViewState": "AgIAACIAAAAAAAAAAIA5wCkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,58 +257,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Splash.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Splash.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\Splash.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T17:56:02.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Login.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Login.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADgvxYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:41:21.351Z"
+              "WhenOpened": "2024-11-17T17:41:21.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Login.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Login.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:37:00.356Z"
+              "WhenOpened": "2024-11-17T17:37:00.356Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Report.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Report.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Report.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAIwLcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwLcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T09:14:10.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Report.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Report.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Report.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\Report.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T09:10:57.172Z",
@@ -313,61 +318,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "SettlePayment.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\SettlePayment.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
               "RelativeToolTip": "CarWashManagementSystem\\SettlePayment.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAHAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T08:11:34.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T08:11:34.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "SettlePayment.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\SettlePayment.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\SettlePayment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\SettlePayment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T08:06:58.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-17T08:06:58.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "CashService.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\CashService.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
               "RelativeToolTip": "CarWashManagementSystem\\CashService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:55:19.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T04:55:19.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "CashService.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\CashService.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\CashService.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashService.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:49:02.082Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-17T04:49:02.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "CashCustomer.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\CashCustomer.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
               "RelativeToolTip": "CarWashManagementSystem\\CashCustomer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwDIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,47 +376,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "CashCustomer.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\CashCustomer.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\CashCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\CashCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T18:49:23.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Cash.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Cash.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Cash.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:22:32.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T04:22:32.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Cash.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Cash.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\Cash.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Cash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:46:31.705Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-16T18:46:31.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Service.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Service.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
               "RelativeToolTip": "CarWashManagementSystem\\Service.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,9 +424,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ServiceModule.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\ServiceModule.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
               "RelativeToolTip": "CarWashManagementSystem\\ServiceModule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,10 +436,10 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ServiceModule.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\ServiceModule.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\ServiceModule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\ServiceModule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T18:06:44.529Z"
             },
@@ -448,45 +447,46 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Service.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Service.cs",
               "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs [Design]",
-              "RelativeToolTip": "CarWashManagementSystem\\Service.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Service.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T18:04:16.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Program.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\Program.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Program.cs",
-              "RelativeToolTip": "CarWashManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\Program.cs*",
+              "RelativeToolTip": "CarWashManagementSystem\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:45:52.958Z"
+              "WhenOpened": "2024-11-15T17:45:52.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\MainForm.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
               "RelativeToolTip": "CarWashManagementSystem\\MainForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:02:03.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "CarWashManagementSystem\\MainForm.cs",
-              "ToolTip": "D:\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs [Design]",
+              "ToolTip": "D:\\522H0014_DuongNhutKhuong\\DotNet_Final\\CarWashManagementSystem\\CarWashManagementSystem\\MainForm.cs [Design]",
               "RelativeToolTip": "CarWashManagementSystem\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T15:01:05.974Z",

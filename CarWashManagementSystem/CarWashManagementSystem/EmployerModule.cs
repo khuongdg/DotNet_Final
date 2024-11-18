@@ -38,7 +38,7 @@ namespace CarWashManagementSystem
                 checkField();
                 if (check)
                 {
-                    if (MessageBox.Show("Are you sure you want to register this employer?", "Employer Registration", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    if (MessageBox.Show("Are you sure you want to register this employee?", "Employee Registration", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                     {
                         cm = new SqlCommand("INSERT INTO Employee(name,phone,address,dob,gender,role,salary,password)VALUES(@name,@phone,@address,@dob,@gender,@role,@salary,@password)", dbcon.connect());
                         cm.Parameters.AddWithValue("@name", txtName.Text);
@@ -53,7 +53,7 @@ namespace CarWashManagementSystem
                         dbcon.open();// to open connection
                         cm.ExecuteNonQuery();
                         dbcon.close();// to close connection
-                        MessageBox.Show("Employer has been successfully registered!", title);
+                        MessageBox.Show("Employee has been successfully registered!", title);
                         check = false;
                         Clear();//to clear data field, after data inserted into the database                        
                         employer.loadEmployer(); // refresh the employer list after insert data in the table
@@ -74,7 +74,7 @@ namespace CarWashManagementSystem
                 checkField();
                 if (check)
                 {
-                    if (MessageBox.Show("Are you sure you want to edit this record?", "Employer Editing", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    if (MessageBox.Show("Are you sure you want to edit this record?", "Employee Editing", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                     {
                         cm = new SqlCommand("UPDATE Employee SET name=@name, phone=@phone, address=@address, dob=@dob, gender=@gender, role=@role, salary=@salary, password=@password WHERE id=@id", dbcon.connect());
                         cm.Parameters.AddWithValue("@id", lblEid.Text);
@@ -90,7 +90,7 @@ namespace CarWashManagementSystem
                         dbcon.open();// to open connection
                         cm.ExecuteNonQuery();
                         dbcon.close();// to close connection
-                        MessageBox.Show("Employer has been successfully registered!", title);
+                        MessageBox.Show("Employee has been successfully registered!", title);
                         Clear();//to clear data field, after data inserted into the database
                         this.Dispose();
                         employer.loadEmployer();
@@ -166,7 +166,7 @@ namespace CarWashManagementSystem
 
             if (checkAge(dtDob.Value) < 18)
             {
-                MessageBox.Show("Employer is under 18!", "Warning");
+                MessageBox.Show("Employee is under 18!", "Warning");
                 return;
             }
             check = true;

@@ -55,7 +55,7 @@ namespace CarWashManagementSystem
                 dr.Read();
                 if (dr.HasRows)
                 {
-                    MessageBox.Show("WELCOME " + dr[0].ToString() + " | ", "ACCESS GRANTED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Welcome " + dr[0].ToString() + " ! ", "ACCESS GRANTED", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     this.Hide();
                     MainForm main = new MainForm();
                     main.ShowDialog();

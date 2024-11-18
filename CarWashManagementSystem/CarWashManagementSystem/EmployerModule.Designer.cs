@@ -117,7 +117,7 @@
             this.rdFemale.AutoSize = true;
             this.rdFemale.Location = new System.Drawing.Point(543, 307);
             this.rdFemale.Name = "rdFemale";
-            this.rdFemale.Size = new System.Drawing.Size(80, 24);
+            this.rdFemale.Size = new System.Drawing.Size(97, 26);
             this.rdFemale.TabIndex = 34;
             this.rdFemale.Text = "Female";
             this.rdFemale.UseVisualStyleBackColor = true;
@@ -128,7 +128,7 @@
             this.rdMale.Checked = true;
             this.rdMale.Location = new System.Drawing.Point(462, 307);
             this.rdMale.Name = "rdMale";
-            this.rdMale.Size = new System.Drawing.Size(65, 24);
+            this.rdMale.Size = new System.Drawing.Size(76, 26);
             this.rdMale.TabIndex = 33;
             this.rdMale.TabStop = true;
             this.rdMale.Text = "Male";
@@ -139,7 +139,7 @@
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(12, 175);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(75, 20);
+            this.label8.Size = new System.Drawing.Size(93, 22);
             this.label8.TabIndex = 32;
             this.label8.Text = "Address :";
             // 
@@ -148,7 +148,7 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(343, 309);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(74, 20);
+            this.label7.Size = new System.Drawing.Size(92, 22);
             this.label7.TabIndex = 31;
             this.label7.Text = "Gender :";
             // 
@@ -164,7 +164,7 @@
             "Worker"});
             this.cbRole.Location = new System.Drawing.Point(143, 260);
             this.cbRole.Name = "cbRole";
-            this.cbRole.Size = new System.Drawing.Size(544, 28);
+            this.cbRole.Size = new System.Drawing.Size(544, 30);
             this.cbRole.TabIndex = 30;
             this.cbRole.SelectedIndexChanged += new System.EventHandler(this.cbRole_SelectedIndexChanged);
             // 
@@ -172,7 +172,7 @@
             // 
             this.txtPassword.Location = new System.Drawing.Point(143, 357);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(544, 26);
+            this.txtPassword.Size = new System.Drawing.Size(544, 30);
             this.txtPassword.TabIndex = 28;
             this.txtPassword.UseSystemPasswordChar = true;
             // 
@@ -180,7 +180,7 @@
             // 
             this.txtSalary.Location = new System.Drawing.Point(143, 306);
             this.txtSalary.Name = "txtSalary";
-            this.txtSalary.Size = new System.Drawing.Size(175, 26);
+            this.txtSalary.Size = new System.Drawing.Size(175, 30);
             this.txtSalary.TabIndex = 29;
             this.txtSalary.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSalary_KeyPress);
             // 
@@ -196,7 +196,7 @@
             // 
             this.txtPhone.Location = new System.Drawing.Point(492, 128);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(195, 26);
+            this.txtPhone.Size = new System.Drawing.Size(195, 30);
             this.txtPhone.TabIndex = 26;
             // 
             // dtDob
@@ -205,14 +205,14 @@
             this.dtDob.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtDob.Location = new System.Drawing.Point(143, 126);
             this.dtDob.Name = "dtDob";
-            this.dtDob.Size = new System.Drawing.Size(200, 26);
+            this.dtDob.Size = new System.Drawing.Size(200, 30);
             this.dtDob.TabIndex = 25;
             // 
             // txtName
             // 
             this.txtName.Location = new System.Drawing.Point(143, 83);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(544, 26);
+            this.txtName.Size = new System.Drawing.Size(544, 30);
             this.txtName.TabIndex = 24;
             // 
             // label4
@@ -220,7 +220,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(392, 131);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(64, 20);
+            this.label4.Size = new System.Drawing.Size(79, 22);
             this.label4.TabIndex = 23;
             this.label4.Text = "Phone :";
             // 
@@ -230,7 +230,7 @@
             this.lblEid.AutoSize = true;
             this.lblEid.Location = new System.Drawing.Point(12, 415);
             this.lblEid.Name = "lblEid";
-            this.lblEid.Size = new System.Drawing.Size(30, 20);
+            this.lblEid.Size = new System.Drawing.Size(36, 22);
             this.lblEid.TabIndex = 22;
             this.lblEid.Text = "Eid";
             this.lblEid.Visible = false;
@@ -240,7 +240,7 @@
             this.lblPass.AutoSize = true;
             this.lblPass.Location = new System.Drawing.Point(12, 360);
             this.lblPass.Name = "lblPass";
-            this.lblPass.Size = new System.Drawing.Size(87, 20);
+            this.lblPass.Size = new System.Drawing.Size(105, 22);
             this.lblPass.TabIndex = 21;
             this.lblPass.Text = "Password :";
             // 
@@ -249,7 +249,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(12, 309);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(60, 20);
+            this.label6.Size = new System.Drawing.Size(75, 22);
             this.label6.TabIndex = 20;
             this.label6.Text = "Salary :";
             // 
@@ -258,7 +258,7 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(12, 263);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(49, 20);
+            this.label5.Size = new System.Drawing.Size(59, 22);
             this.label5.TabIndex = 19;
             this.label5.Text = "Role :";
             // 
@@ -267,7 +267,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(12, 126);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(108, 20);
+            this.label3.Size = new System.Drawing.Size(135, 22);
             this.label3.TabIndex = 18;
             this.label3.Text = "Date of birth :";
             // 
@@ -276,7 +276,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 86);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 20);
+            this.label2.Size = new System.Drawing.Size(108, 22);
             this.label2.TabIndex = 17;
             this.label2.Text = "Full Name :";
             // 
@@ -287,9 +287,9 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(0)))), ((int)(((byte)(55)))));
             this.label1.Location = new System.Drawing.Point(12, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(174, 19);
+            this.label1.Size = new System.Drawing.Size(227, 23);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Employer Registration";
+            this.label1.Text = "Employee Registration";
             // 
             // panel1
             // 
@@ -303,7 +303,7 @@
             // 
             // EmployerModule
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(708, 453);
             this.Controls.Add(this.btnClose);

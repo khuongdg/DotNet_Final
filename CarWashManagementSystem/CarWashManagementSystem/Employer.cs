@@ -54,7 +54,7 @@ namespace CarWashManagementSystem
                         dbcon.open();
                         cm.ExecuteNonQuery();
                         dbcon.close();
-                        MessageBox.Show("Employer data has been successfully removed!", title, MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Employee data has been successfully removed!", title, MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                 }
                 catch (Exception ex)
