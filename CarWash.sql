@@ -16,6 +16,8 @@ CREATE TABLE Employee (
     password VARCHAR(50) NOT NULL             
 );
 
+INSERT INTO Employee VALUES ('admin', '0123456789', 'TP HCM', '11-19-2024', 'Male', 'Manager', '100000', '123');
+
 CREATE TABLE VehicleType (
     id INT IDENTITY(1,1) PRIMARY KEY,         
     name VARCHAR(50) NOT NULL,               
